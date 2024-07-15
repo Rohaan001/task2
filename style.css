@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgba(199, 194, 194, 0.836);
+}
+.head h1{ 
+    background-color: rgba(13, 163, 233, 0.678);
+    color: white;
+    padding: 10px 20px; 
+}
+.head p{
+    padding: 10px 20px; 
+    font-size:20px ;
+}
+.a {
+    color: white;
+    display: block;
+    padding: 10px 20px;
+    font-size: 20px;
+    margin-left: 10px; 
+}
+.b{
+    background-color: rgb(240, 238, 234);
+    color: rgb(0, 140, 255);
+}
